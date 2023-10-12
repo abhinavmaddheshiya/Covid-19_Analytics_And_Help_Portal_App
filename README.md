@@ -1,7 +1,7 @@
 # Covid-19_Analytics_And_Help_Portal_App
 Features: 
-1. COVID-19 cases live data with an interactive Indian map
-2. Bar Chart on State Vaccination
+1. COVID-19 cases live data with an interactive Indian map.
+2. Bar Chart on State Vaccination.
 3. Services for oxygen supply and plasma donation for patients.
 
 # Few Screenshots: 
